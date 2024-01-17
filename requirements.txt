@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotnine
+# re no need to install it as it is a standard library
